@@ -1,1 +1,3 @@
 Jean 
+  git config --global user.email "jean.c.gervacio@gmail.com"
+  git config --global user.name "Jean Gervacio"
